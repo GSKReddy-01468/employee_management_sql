@@ -98,35 +98,6 @@ The database consists of six interconnected tables:
 
 ---
 
-## Project Structure
-
-employee-management-sql
-│
-├── database
-│   └── schema.sql
-│
-├── data
-│   ├── Employee.csv
-│   ├── JobDepartment.csv
-│   ├── Salary_Bonus.csv
-│   ├── Leaves.csv
-│   ├── Payroll.csv
-│   └── Qualification.csv
-│
-├── queries
-│   ├── 01_employee_insights.sql
-│   ├── 02_department_analysis.sql
-│   ├── 03_qualification_analysis.sql
-│   ├── 04_leave_analysis.sql
-│   └── 05_payroll_analysis.sql
-│
-├── docs
-│   └── project_presentation.pptx
-│
-└── README.md
-
---- 
-
 ## How to Run the Project 
 
 1. Open **MySQL Workbench**. 
@@ -146,3 +117,4 @@ USE employee_management;
 * MySQL 
 * MySQL Workbench 
 * GitHub
+
